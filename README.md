@@ -17,26 +17,26 @@ npm run build
 
 - 首页
 
-![image-20200324190146335](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190146335.png)
+![image-20200324190146335](/README.assets/image-20200324190146335.png)
 
-![image-20200324190158510](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190158510.png)
+![image-20200324190158510](/README.assets/image-20200324190158510.png)
 
 - 分类
 
-![image-20200324190427832](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190427832.png)
+![image-20200324190427832](/README.assets/image-20200324190427832.png)
 
 - 商品列表
 
-![image-20200324190444374](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190444374.png)
+![image-20200324190444374](/README.assets/image-20200324190444374.png)
 
 - 详情页
 
-![image-20200324190504389](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190504389.png)
+![image-20200324190504389](/README.assets/image-20200324190504389.png)
 
 - 购物车
 
-![image-20200324190542518](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190542518.png)
+![image-20200324190542518](/README.assets/image-20200324190542518.png)
 
 - 我的
 
-![image-20200324190636510](C:\Users\MuLing\Desktop\vue-project\mogujie\README.assets\image-20200324190636510.png)
+![image-20200324190636510](/README.assets/image-20200324190636510.png)
